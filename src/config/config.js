@@ -1,0 +1,1 @@
+export default API_URL = 'http://10.51.173.193:5000/api';
